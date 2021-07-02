@@ -1,4 +1,4 @@
-class Livro{
+  class Livro{
     constructor( id, nomeLivro, qtdPaginas ) {
         this.id = id;
         this.nomeLivro = nomeLivro;
